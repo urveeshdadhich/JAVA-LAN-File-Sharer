@@ -72,13 +72,13 @@ If you want to contribute or build the project yourself, follow these steps.
 
 Open your terminal, navigate to the project directory, and run:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   javac LanFileSharer.java   `
+`   javac LanFileSharer.java   `
 
 ### 2\. Package the Application JAR
 
 This command packages the .class file into a single, executable .jar file.
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   jar cfe LanFileSharer.jar LanFileSharer LanFileSharer.class icon.png   `
+`   jar cfe LanFileSharer.jar LanFileSharer LanFileSharer.class icon.png   `
 
 ### 3\. Compile the Installer (Windows)
 
@@ -121,3 +121,4 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 ----------
 
 This project is licensed under the MIT License.
+
