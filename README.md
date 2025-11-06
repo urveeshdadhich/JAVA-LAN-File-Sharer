@@ -30,7 +30,7 @@ The easiest way to use this application is with the official installer.
     
 *   **Simple GUI:** A clean, responsive graphical user interface built with Java Swing.
     
-*   **Windows Installer:** A professional installer that handles setup and firewall configuration.
+*   **Windows Installer:** An installer that handles setup and firewall configuration.
     
 
 ⚙️ How It Works: The Hybrid Protocol
@@ -121,6 +121,7 @@ This command packages the .class file into a single, executable .jar file.
 ----------
 
 This project is licensed under the MIT License.
+
 
 
 
