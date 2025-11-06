@@ -10,7 +10,7 @@ Its key feature is **zero-configuration discovery** (ZeroConf) — it uses UDP b
 
 The easiest way to use this application is with the official installer.
 
-1.  Go to the [**Releases**](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/releases) page for this project._(Note: You will need to create a "Release" in GitHub and upload your .exe file there)._
+1.  Go to the [**Releases**](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/releases) page for this project.
     
 2.  Download the latest JavaLANFileSharer-Setup.exe.
     
@@ -121,4 +121,5 @@ This command packages the .class file into a single, executable .jar file.
 ----------
 
 This project is licensed under the MIT License.
+
 
