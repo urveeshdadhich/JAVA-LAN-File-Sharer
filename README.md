@@ -41,7 +41,7 @@ This application follows a classic Client-Server architecture:
 
 Open your terminal/command prompt in the project folder:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   javac LanFileSharer.java   `
+`   javac LanFileSharer.java   `
 
 ### 2\. Run the Server (Sender)
 
@@ -97,3 +97,4 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 ----------
 
 This project is licensed under the MIT License.
+
